@@ -34,7 +34,7 @@ System Analyst - Universidade Estácio de Sá - 2022
 <a href="mailto:dj.assuntospessoais@gmail.com" target="Gmail">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/djhonatas-oliveira-478b1b1b1/" target="Linkedin">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-  ![Snake animation](https://github.com/Djhonatas/Djhonatas/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/Djhonatas/Djhonatas/blob/output/github-contribution-grid-snake.svg)
 
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Djhonatas&repo=Djhonatas&theme=react)](https://github.com/Djhonatas/Djhonatas)
 </div> 
