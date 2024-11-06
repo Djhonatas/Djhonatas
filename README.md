@@ -3,8 +3,6 @@
 System Analyst - Universidade Estácio de Sá - 2022
 
 - 🔭 I’m currently working as System analityc
-- 🌱 I’m currently learning Python and NodeJS
-- 💬 Ask me about NodeJS, SLQ Server, Python, Html and CSS
 
 
 
